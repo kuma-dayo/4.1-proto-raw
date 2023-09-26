@@ -5,4 +5,4 @@ much of the proto data is missing and cannot be used for PS
 
 ## data status
 proto - 60%? (many missing)  
-cmdid - 100% 
+cmdid - 100% (maybe)
